@@ -1,0 +1,12 @@
+
+.current-time .btn-stop{
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+.calendar{
+    margin: 50px;
+}
